@@ -42,7 +42,7 @@ body {
     top: 28%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 60%;
+    width: 30%;
 }
 
 #headline1 {
@@ -64,20 +64,20 @@ body {
 }
 
 #logo {
-    top: -9%;
+    top: -15%;
     left: 5%;
     width: 30%;
 }
 
 #learn-more-btn {
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 30%;
 }
 
 #replay-btn {
-    top: 83%;
+    top: 89%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 20%;
